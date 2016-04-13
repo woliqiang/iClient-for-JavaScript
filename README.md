@@ -32,12 +32,25 @@ SuperMap iClient for JavaScript 是一套由 JavaScript 语言编写的 GIS 客�
 
 ##### 终端设备与浏览器兼容性
 
-| 设备类型 | IE | Chrome | Firefox | Opera | Safari | 移动端 webkit 内核浏览器 |
-| -- | -- | -- | -- | -- | -- | -- |
-| PC 机终端 | 6.0 及以上系列（推荐 9.0 及其以上版本） | 1.0 及以上系列（推荐 1.0 及其以上版本） | 2.0 及其以上系列（推荐 5.0 及其以上版本） | 9.5 及以上系列（推荐 10.0 及其以上版本） | 3.0 及其以上系列（推荐 4.0 及其以上版本 | 无 |
-| Android 2.1+ 移动终端 | 无 | Chrome Lite | Firefox for Mobile | Opera Mobile | 无 | UC U3 内核浏览器、QQ 浏览器 2.0 及其以上版本、海豚浏览器 4.0 及其以上版本、360 浏览器 2.0 及其以上版本 |
-| iOS 4.0+ 移动终端 | 无 | 无 | 无 | 无 | Safari for iOS | 无 |
-| WP 7.5 移动终端 | Internet Explorer Mobile（以及基于IE内核的QQ浏览器和UC浏览器） | 无 | 无 | 无 | 无 | 无 |
+* PC机终端
+ * IE：6.0 及以上系列，推荐 9.0 及其以上版本
+ * Chrome：1.0 及以上系列，推荐 1.0 及其以上版本
+ * Firefox：2.0 及其以上系列，推荐 5.0 及其以上版本
+ * Opera：9.5 及以上系列，推荐 10.0 及其以上版本
+ * Safari：3.0 及其以上系列（推荐 4.0 及其以上版本
+* Android 2.1+ 移动终端
+ * Chrome：Chrome Lite
+ * Firefox：Firefox for Mobile
+ * Opera：Opera Mobile
+ * 移动端 webkit 内核浏览器：
+   * UC U3 内核浏览器
+   * QQ 浏览器 2.0 及其以上版本
+   * 海豚浏览器 4.0 及其以上版本
+   * 360 浏览器 2.0 及其以上版本
+* iOS 4.0+ 移动终端
+ * Safari for iOS
+* WP 7.5 移动终端
+ * Internet Explorer Mobile（以及基于IE内核的QQ浏览器和UC浏览器）
 
 ##### 其他兼容性
 
