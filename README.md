@@ -43,11 +43,7 @@ SuperMap iClient for JavaScript 是一套由 JavaScript 语言编写的 GIS 客�
  * Firefox：Firefox for Mobile
  * Opera：Opera Mobile
  * 移动端 webkit 内核浏览器：
-   * UC U3 内核浏览器
-   * QQ 浏览器 2.0 及其以上版本
-   * 海豚浏览器 4.0 及其以上版本
-   * 360 浏览器 2.0 及其以上版本
-* iOS 4.0+ 移动终端
+   * UC U3 内核浏览器、QQ 浏览器 2.0 及其以上版本、海豚浏览器 4.0 及其以上版本、360 浏览器 2.0 及其以上版本、iOS 4.0+ 移动终端
  * Safari for iOS
 * WP 7.5 移动终端
  * Internet Explorer Mobile（以及基于IE内核的QQ浏览器和UC浏览器）
